@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    color: rgb(16, 10, 102);
+}
+
+p {
+    color: red;
+}
+
+#main-heading {
+    color: purple;
+}
